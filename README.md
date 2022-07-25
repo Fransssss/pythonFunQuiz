@@ -1,5 +1,5 @@
 # pythonFunQuiz
-Fum Quiz!
+Fun Quiz!
 
 Objectives:
 - create and call functions
